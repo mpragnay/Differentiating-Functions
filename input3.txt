@@ -1,0 +1,1 @@
+(3tan(4x))/(ln(cosh(x)))+34e^(3arcsin(x))
